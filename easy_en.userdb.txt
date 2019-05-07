@@ -1,0 +1,27 @@
+# Rime user dictionary
+#@/db_name	easy_en.userdb
+#@/db_type	userdb
+#@/rime_version	1.4.0
+#@/tick	27
+#@/user_id	Amber_76Game_Windows
+as 	as	c=1 d=0.927743 t=27
+ay 	ay	c=1 d=0.995012 t=27
+d 	d	c=1 d=0.955997 t=27
+dk 	dk	c=2 d=1.84633 t=27
+es 	es	c=1 d=0.99005 t=27
+f 	f	c=1 d=0.960789 t=27
+j 	j	c=1 d=0.918512 t=27
+jdl 	jdl	c=1 d=0.97531 t=27
+kl 	kl	c=1 d=0.951229 t=27
+ks 	ks	c=2 d=1.84232 t=27
+la 	la	c=1 d=0.965605 t=27
+ll 	ll	c=1 d=0.923116 t=27
+micro 	micro	c=1 d=0.900325 t=27
+s 	s	c=4 d=3.73921 t=27
+safe 	safe	c=1 d=0.985112 t=27
+sf 	sf	c=1 d=0.980199 t=27
+sh 	sh	c=1 d=0.891366 t=27
+sl 	sl	c=1 d=0.941765 t=27
+soft 	soft	c=1 d=0.904837 t=27
+window 	window	c=1 d=0.995012 t=27
+yingkou 	yingkou	c=1 d=1 t=27
